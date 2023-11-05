@@ -4,7 +4,7 @@
 
 <b>This is a repository for projects or tools I find useful.</b> 
 
-- 👽 I'm an aesthetician, artist, and mother. I'm super new to developing but I've always had a love for technology and the prospects of AI.  
+- 👽 I'm an aesthetician, artist, and mother. I'm new to developing but I've always had a love for technology and AI.  
 - 💥 I’m interested in a multitude of areas, but I'm mostly passionate about art and scientific incorporation.  
 - 🔮 I’m currently learning as much as I can about AI and project management. Can't wait to learn more from a creative team.
 - 💞️ I’m looking to collaborate on making advancements to society in creative ways. Finding mentor/partnerships is of high priority!     
