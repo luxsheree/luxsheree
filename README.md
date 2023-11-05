@@ -1,10 +1,16 @@
-![Untitled (10)](https://github.com/luxsheree/luxsheree/assets/147013007/24140c3b-d9ea-4b94-a032-684d814aec3b)
+<a href="https://luxsheree.github.io">![IMG_5560](https://github.com/luxsheree/luxsheree/assets/147013007/fa5ffe7b-df18-42f1-92db-3be5230f55bb)</a>
 
-- 👋 Hi, I’m Sheree or @luxsheree. I'm an esthetician, artist, and mother. I'm new to developing but I'm hopeful to learn more from a creative team.   
-- 👀 I’m interested in a multitude of areas, but I'm mostly passionate about art and scientific incorporation. This is a basic repository for projects or tools I find useful. 
-- 🌱 I’m currently learning as much as I can about AI and product management. I have a deep love for science and all of its beautiful branches. 
-- 💞️ I’m looking to collaborate on making advancements to society in any ways I can. Finding quality mentor/partnerships is of high priority!   
-- 📫 You can reach me on IG: @xosheree Check out my art! IG: @ultravioletdollhouse
+<h1>👋 Hi! I'm Sheree or @luxsheree</h1>
+
+<b>This is a repository for projects or tools I find useful.</b> 
+
+- 👽 I'm an aesthetician, artist, and mother. I'm super new to developing but I've always had a love for technology and the prospects of AI.  
+- 💥 I’m interested in a multitude of areas, but I'm mostly passionate about art and scientific incorporation.  
+- 🔮 I’m currently learning as much as I can about AI and project management. Can't wait to learn more from a creative team.
+- 💞️ I’m looking to collaborate on making advancements to society in creative ways. Finding mentor/partnerships is of high priority!     
+- 📫 How to Reach Me: IG <a href="https://www.instagram.com/xosheree">@xosheree</a>
+- 🎨 Art <a href="https://www.instagram.com/ultravioletdollhouse">@ultravioletdollhouse</a>
+   <h4> <a href="https://luxsheree.github.io">Check out my Portfolio!</a></h4>    
 
 <!---
 luxsheree/luxsheree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
