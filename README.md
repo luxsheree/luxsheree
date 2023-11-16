@@ -9,7 +9,7 @@
 - 🔮 I’m currently learning as much as I can about AI and project management. Can't wait to learn more from a creative team.
 - 💞️ I’m looking to collaborate on making advancements to society in creative ways. Finding mentor/partnerships is of high priority!     
 - 📫 How to Reach Me: IG <a href="https://www.instagram.com/xosheree">@xosheree</a>
-- 🎨 Art <a href="https://www.instagram.com/ultravioletdollhouse">@ultravioletdollhouse</a>
+- 🎨 Art <a href="https://www.instagram.com/xssluxe">@xssluxe</a>
    <h4> <a href="https://luxsheree.github.io">Check out my Portfolio!</a></h4>    
 
 <!---
